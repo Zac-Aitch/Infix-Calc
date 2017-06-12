@@ -1,4 +1,3 @@
-//Zac Henney : Lab 4
 import java.util.*;
 
 public class CalcLauncher
